@@ -6,6 +6,9 @@ including location, type, speed, weight and more. This data is stored in atomic 
 
 **Dataset:**  [Traffic Dataset Ireland](https://data.tii.ie/Datasets/TrafficCountData/2021/01/15/per-vehicle-records-2021-01-15.csv)
 
+
+**Watch the video instead:** https://youtu.be/3IhpsT_cOTw
+
 Downloading Data Set using ‘wget’ followed by the download link.
 
 ![Picture1](https://github.com/muhammadallain/irish_m50_traffic_map_reduce_transformations/assets/96694357/ec29d923-e27e-4743-930b-bcdfa0f801d2)
